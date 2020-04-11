@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095804985615",
+    "firebase_url": "https://sescenti-af289.firebaseio.com",
+    "project_id": "sescenti-af289",
+    "storage_bucket": "sescenti-af289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095804985615:android:2d7b514c5cb8c188669e7a",
+        "android_client_info": {
+          "package_name": "in.ramakuru.sescenti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095804985615-nq1cl12391p5phv4n2r3q4llo8gah8hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa3pOOuSs9gA-zwHFghRO3Wc69Y68W2TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095804985615-nq1cl12391p5phv4n2r3q4llo8gah8hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
